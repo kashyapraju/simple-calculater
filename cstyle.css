@@ -1,0 +1,36 @@
+
+.container{
+    text-align: center;
+    font-size: 29px;
+    margin-top: 23px;
+    background-image: url("p.jpg.avif");
+    margin-bottom: 122px;
+    
+}
+table{
+    margin: 44px;
+}
+
+input{
+    border-radius: 29px;
+    font-size: 39px;
+    border: 22px solid #12121a;
+
+    
+  }
+
+button{
+    border-radius: 66px;
+    font-size: 30px;
+    background: #24822eeb;
+    width: 90px;
+    height: 52px;
+}
+
+.calculater{
+    display: inline-block;
+    background-color: #051619;
+    border-radius: 34px;
+    
+    
+}
